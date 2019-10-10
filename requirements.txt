@@ -1,3 +1,2 @@
-Python==2.7.12
-django==2.0.4
-djangorestframework==3.9.2
+Django==2.2
+djangorestframework==3.10.3
